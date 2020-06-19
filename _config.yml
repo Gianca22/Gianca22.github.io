@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Giacnarlo Buonomo
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/26434532?s=460&u=f5a055ae001f5102797de072e17c61184477a85f&v=4
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Gianca22
   instagram:
   linkedin:
   pinterest:
