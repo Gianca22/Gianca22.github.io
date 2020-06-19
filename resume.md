@@ -1,21 +1,30 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 ### Education
 
 #### 2019 - 2021        European Master's in Software Engineering
-                Universidad Politécnica de Madrid
+
+<div class="entry">
+    Universidad Politécnica de Madrid
+</div>
 
 #### 2015 - 2019        Software Engineering Bachelor's Degree
-                Universidad Politécnica de Madrid
+
+<div class="entry">
+    Universidad Politécnica de Madrid
+</div>
 
 
 ### Experience
 
 #### 2020/02 - present  Cambrian Intelligence SLU, Madrid (Spain)
-                Internship, development of models and systems based on Machine Learning and Data analysis.
+
+<div class="entry">
+    Internship, development of models and systems based on Machine Learning and Data analysis.
+</div>
 
 ### Contact me
 
