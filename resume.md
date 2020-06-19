@@ -8,13 +8,13 @@ permalink: /resume/
 #### 2019 - 2021        European Master's in Software Engineering
 
 <div class="entry">
-    Universidad Politécnica de Madrid
+    Escuela Técnica Superior de Ingenieros Informáticos de la Universidad Politécnica de Madrid
 </div>
 
 #### 2015 - 2019        Software Engineering Bachelor's Degree
 
 <div class="entry">
-    Universidad Politécnica de Madrid
+    Escuela Técnica Superior de Ingeniería de Sistemas Informáticos de la Universidad Politécnica de Madrids
 </div>
 
 
