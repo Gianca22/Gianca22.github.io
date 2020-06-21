@@ -3,6 +3,11 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+
+<div class="entry">
+    Here is my resume, but you could also <a href="/files/Resume_GIANCARLO%20BUONOMO.pdf">download it as a PDF.</a>
+</div>
+
 ### Education
 
 #### 2019 - 2021        European Master's in Software Engineering
