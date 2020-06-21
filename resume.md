@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 <div class="entry">
-    Here is my resume, but you could also <a href="/files/Resume_GIANCARLO%20BUONOMO.pdf">download it as a PDF.</a>
+    Here is my resume, but you could also <a href="/files/Resume_GIANCARLO%20BUONOMO.pdf" target="_blank">download it as a PDF.</a>
 </div>
 
 ### Education
