@@ -13,13 +13,19 @@ permalink: /resume/
 #### 2019 - 2021        European Master's in Software Engineering
 
 <div class="entry">
-    Escuela Técnica Superior de Ingenieros Informáticos de la Universidad Politécnica de Madrid
+    Escuela Técnica Superior de Ingenieros Informáticos de la Universidad Politécnica de Madrid (Spain)
+</div>
+
+#### 2019/02 - 2019/07  Software Engineering Master's Courses in China
+
+<div class="entry">
+    Mobility program in Shanghai, China at Tongji University (同济大学) studying Master's courses such as Machine Learning and Computer Vision.
 </div>
 
 #### 2015 - 2019        Software Engineering Bachelor's Degree
 
 <div class="entry">
-    Escuela Técnica Superior de Ingeniería de Sistemas Informáticos de la Universidad Politécnica de Madrids
+    Escuela Técnica Superior de Ingeniería de Sistemas Informáticos de la Universidad Politécnica de Madrid (Spain)
 </div>
 
 
